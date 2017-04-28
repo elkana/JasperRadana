@@ -1,0 +1,14 @@
+{
+  "name": "JasperRadana",
+  "version": "0.0.1",
+  "description": "cordova plugin jasper for Radana",
+  "cordova": {
+    "id": "cordova-plugin-jasper-radana",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "elkana",
+  "license": "ISC"
+}
